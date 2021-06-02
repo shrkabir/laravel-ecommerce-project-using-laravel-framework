@@ -6,9 +6,9 @@ In the customer part customers can visit the application and buy products. In th
 
 In the admin end part there is a admin panel for the admins to control the application and its features. Admin can add category, manage category like publish or unpublish category, edit category, delete category, add new brand, manage brand, add product, manage product like view product details, publish or unpublish product, edit product, delete product, manage order like view order details, view order invoice, download order invoice as PDF, edit order, delete order, manage front end slider images etc.
 
-This project is built with PHP Laravel framework which maintain MVC design pattern. Forms of this project is properly validated. Middleware are used to verify different requests. In this project I have used 3 packages and 1 plugin. Packages used in this project are : laravel collectives, intervention. io, dompdf.
+This project is built with PHP Laravel framework which maintain MVC design pattern. Forms of this project is properly validated. Middleware are used to verify different requests. In this project I have used 3 packages and 1 plugin. Packages used in this project are : laravel collectives, intervention. io, dompdf.<p>
   
-Screenshots of different features and pages of this application given below.</p>
+<h3>Screenshots of different features and pages of this application given below.</h3>
 <h3>Home page<h3>
 <img src="screenshot_images/home page.JPG" width="800px" height="500px">
 <h3>home page scroll down 1<h3>
