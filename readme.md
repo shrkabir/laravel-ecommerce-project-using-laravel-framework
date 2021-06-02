@@ -1,6 +1,5 @@
-<b>Scroll down to see screenshots of different pages of the project.</b>
-
-
+<h2>Laravel Ecommerce Project Using Laravel Framework</h2>
+<h3>(Scroll down to see screenshots of different pages of the project)</h3>
 <p>This is an ecommerce application which is built with PHP Laravel framework. This application has two part. One is customer end part another is admin end part.
 
 In the customer part customers can visit the application and buy products. In the home page New arrival products and also available products from different category are shown. In the menu bar there are available categories. When customers click on a specific category they can view products of that specific category. Customers can add product to the cart and also can remove product from the cart before confirm the order. To confirm the order, the customer must have to sign in. If they are not register yet, then they have to register to create an account.
