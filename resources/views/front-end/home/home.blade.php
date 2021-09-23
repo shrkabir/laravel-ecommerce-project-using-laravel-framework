@@ -33,7 +33,6 @@
     interval: 3000,
     controlNavEnabled: true
   });
-
   </script>
 
 </div>
@@ -61,7 +60,7 @@
                 </figure>
               </div>
               <div class="ribben">
-                <p>NEW</p>
+                <h2>NEW</h2>
               </div>
               <div class="women">
                 <h6><a href="single.html">{{ $newArrivalProduct->product_name }}</a></h6>
