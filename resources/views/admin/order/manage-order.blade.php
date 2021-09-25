@@ -10,7 +10,7 @@
   <div class="col-md-12">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h4 class="text-center text-success">Manage Order</h4>
+        <h3 class="text-center text-success">Manage Order</h3>
       </div>
       <div class="panel-body">
         <table class="table table-bordered">
