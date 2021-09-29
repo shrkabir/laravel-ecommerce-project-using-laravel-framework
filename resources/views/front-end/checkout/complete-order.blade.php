@@ -19,7 +19,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 well">
-            <h3 class="text-success text-centre">Congratulation! Dear {{Session::get('customer_name')}}, your order has placeded successfully.</h3>
+            <h2 class="text-success text-centre">Congratulation! Dear {{Session::get('customer_name')}}, your order has placeded successfully.</h2>
           </div>
         </div>
       </div>
